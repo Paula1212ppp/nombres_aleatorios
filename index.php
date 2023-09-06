@@ -12,14 +12,15 @@
 	</nav>
 	<div class="col-md-3"></div>
 	<div class="col-md-6 well">
-		<h3 class="text-warning"> Generador de Nombres</h3>
+		<h3 class="text-primary"> Generador de Nombres con JavaScript</h3>
 		<hr style="border-top:1px dotted #ccc;"/>
 		<div class="col-md-3"></div>
 		<div class="col-md-6">
-			<button class="btn btn-danger btn btn-block" onclick="generate()">Generar Nombre</button>
+			<button class="btn btn-danger btn btn-block" onclick="generate()">Generar Nombres y apellidos</button>
 			<div id="result"></div>
 		</div>
 	</div>
+	<h1>APP creada en 2023</h1>
 <script src="js/script.js"></script>
 </body>
 </html>
